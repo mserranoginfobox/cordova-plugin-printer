@@ -18,7 +18,8 @@
  specific language governing permissions and limitations
  under the License.
  */
-
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 #import <Cordova/CDVPlugin.h>
 
 @interface APPPrinter : CDVPlugin <UIPrintInteractionControllerDelegate>
